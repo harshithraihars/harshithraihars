@@ -7,13 +7,9 @@
 
 - 🔭 I’m currently working on [Youtube-buddy](https://github.com/harshithraihars/youtube-buddy)
 
-- 🌱 I’m currently learning **Nextjs,Firabase**
-
 - 💬 Ask me about **React,Node,Express**
 
 - 📫 How to reach me **harshithraiharsu@gmail.com**
-
-- ⚡ Fun fact **I watch India Got Latent**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,3 +23,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshithraihars&show_icons=true&locale=en&layout=compact" alt="harshithraihars" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshithraihars&show_icons=true&locale=en" alt="harshithraihars" /></p>
+
