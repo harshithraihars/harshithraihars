@@ -56,7 +56,11 @@
   <a href="https://clerk.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/62665979?s=200&v=4" alt="clerk" width="40" height="40"/>
   </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://iconape.com/wp-content/png_logo_vector/next-js.png" alt="nextjs" width="40" height="40"/>
+  </a>
 </p>
+
 
 
 
