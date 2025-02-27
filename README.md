@@ -56,16 +56,8 @@
   <a href="https://clerk.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/62665979?s=200&v=4" alt="clerk" width="40" height="40"/>
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://webrtc.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/354228/webrtc.svg" alt="webrtc" width="40" height="40"/>
-  </a>
 </p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshithraihars&show_icons=true&locale=en&layout=compact" alt="harshithraihars" /></p>
